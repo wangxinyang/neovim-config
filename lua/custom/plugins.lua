@@ -121,5 +121,9 @@ local plugins = {
     --  require("core.utils").load_mappings("copilot")
     --end
   },
+  {
+    "tpope/vim-fugitive",
+    cmd = "Git",
+  },
 }
 return plugins
