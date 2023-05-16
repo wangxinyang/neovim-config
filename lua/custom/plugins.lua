@@ -142,5 +142,9 @@ local plugins = {
       ]]
     end
   },
+  {
+    "HiPhish/nvim-ts-rainbow2",
+    event = { "User FileOpened" },
+  },
 }
 return plugins

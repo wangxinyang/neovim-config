@@ -7,6 +7,10 @@ local options = {
   },
 
   indent = { enable = true },
+
+  rainbow = {
+    enable = true,
+  },
 }
 
 return options
