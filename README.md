@@ -1,2 +1,2 @@
 # neovim-config
-meovim config file manage
+neovim config file manage
