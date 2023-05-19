@@ -1,2 +1,2 @@
 # neovim-config
-neovim config file manage
+neovim（Nvchad） config file manage
